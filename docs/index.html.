@@ -1,0 +1,13 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>FlowLedger</title>
+</head>
+<body>
+<h1>FlowLedger</h1>
+<p>Business Workflow Automation System</p>
+<p>Built with Python, Streamlit and SQLite.</p>
+</body>
+</html>
