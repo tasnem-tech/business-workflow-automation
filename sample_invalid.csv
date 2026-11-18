@@ -1,0 +1,4 @@
+invoice_id,supplier,project,amount,currency,due_date
+INV-1006,Example Ltd,Demo,abc,GBP,2026-12-12
+INV-1007,,Demo,50.00,GBP,2026-12-12
+INV-1008,Example Ltd,Demo,25.00,USD,2026-12-12
